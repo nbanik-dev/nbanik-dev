@@ -18,5 +18,5 @@
 - Unity AI Game
 
 ## Connect
-- LinkedIn-
+- LinkedIn-Nirob Banik
 - Email-tnirob648@gmail.com
